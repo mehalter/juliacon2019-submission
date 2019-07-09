@@ -1,0 +1,22 @@
+title: "SemanticModels.jl: A Julia Package for Scientific Model Augmentation"
+keywords:
+  - Modeling Frameworks
+  - Meta-programming
+  - Category Theory
+authors:
+  - name: Micah Halter
+    orcid: 000-0002-0484-971X
+    affiliation: 1
+  - name: Sreenath Raparti
+    affiliation: 1
+  - name: Kun Cao
+    affiliation: 1
+  - name: Christine Herlihy
+    affiliation: 1
+  - name: James Fairbanks
+    affiliation: 1
+affiliations:
+  - name: Georgia Tech Research Institute, Atlanta, USA
+    index: 1
+date: 08 July 2019
+bibliography: ref.bib
